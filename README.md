@@ -1,4 +1,4 @@
-# Single Page Generator: Intro Layout
+# Single Page Generator: Footer Layout
 Footer layout compatible with generator-single-page
 
 #### 1 Row, 1 Column
