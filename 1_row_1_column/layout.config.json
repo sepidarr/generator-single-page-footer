@@ -1,1 +1,15 @@
-{}
+{
+  "prompts":
+  [
+    {
+      "type": "input",
+      "name": "year",
+      "message": "What Year do you want to use?"
+    },
+    {
+      "type": "input",
+      "name": "company",
+      "message": "What is your Company or your Name?"
+    }
+  ]
+}
